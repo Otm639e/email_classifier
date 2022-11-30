@@ -23,5 +23,8 @@ Ones we have this information for each email we run a Logistic Regression model 
 - Also a Logistic Regression model is simple to explain/visualize.  
 - We could also have used a desision tree due to these same reasons.
 
+Next Steps:
+- Using this Logistic Regression model what we could do next is create a website where we can input an email (string) and get back whether that email is spam (boolean). This website would also show the intermediate steps according the model's equation (weights on each feature).
+- This would be great for people learning what happens underneath the hood of similar machine learning classifiers.
 
 A UC Berkeley Project Data 100
